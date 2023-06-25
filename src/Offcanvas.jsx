@@ -11,7 +11,7 @@ function Cavan() {
     return (
         <>
             <Button variant="primary" onClick={handleShow}>
-                Launch
+                Ngu thì chết
             </Button>
 
             <Offcanvas show={show} onHide={handleClose}>

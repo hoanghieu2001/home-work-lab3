@@ -4,13 +4,13 @@ function Down() {
     return (
         <Dropdown>
             <Dropdown.Toggle variant="success" id="dropdown-basic">
-                Dropdown Button
+                Hãy chọn idol
             </Dropdown.Toggle>
 
             <Dropdown.Menu>
-                <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-                <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-                <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
+                <Dropdown.Item href="#/action-1">Huấn Hoa Hèo</Dropdown.Item>
+                <Dropdown.Item href="#/action-2">Ngô Bá Khá</Dropdown.Item>
+                <Dropdown.Item href="#/action-3">Tiến Bry</Dropdown.Item>
             </Dropdown.Menu>
         </Dropdown>
     );
