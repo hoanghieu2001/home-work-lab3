@@ -10,7 +10,7 @@ function App() {
 
     <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
-        <Form.Label>Con mời bố nhập</Form.Label>
+        <Form.Label>Thầy Ba nhập giúp em</Form.Label>
 
         <Form.Control type="email" placeholder="Enter email" />
         <Form.Text className="text-muted">
