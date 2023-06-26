@@ -26,7 +26,7 @@ function App() {
         <Form.Check type="checkbox" label="Bố nhấp liên tục vào để nhớ" />
       </Form.Group>
       <Button variant="primary" type="submit">
-        Đăng nhập
+        Bài em 10 điểm
       </Button>
     </Form>
   );
